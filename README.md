@@ -1,0 +1,2 @@
+# hellogradle
+Just testing gradle
